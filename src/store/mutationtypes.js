@@ -1,0 +1,13 @@
+export  const SET_SINGER="set_singer"
+export  const SET_PLAYING="SET_PLAYING"
+export  const SET_PLAYLIST="SET_PLAYLIST"
+export  const SET_ORDERPLAY="SET_ORDERPLAY"
+export  const SET_FULLSCREEN="SET_FULLSCREEN"
+export  const SET_MODE="SET_MODE"
+export  const SET_CURRENTINDEX="SET_CURRENTINDEX"
+export  const SET_RECOMENDSONG="SET_RECOMENDSONG"
+export  const SET_RANKSELECT="SET_RANKSELECT"
+
+
+
+
